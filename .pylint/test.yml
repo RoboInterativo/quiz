@@ -1,0 +1,10 @@
+************* Module bot2
+C: 48, 0: Constant name "state_bot" doesn't conform to UPPER_CASE naming style (invalid-name)
+C: 71, 8: Constant name "config" doesn't conform to UPPER_CASE naming style (invalid-name)
+C: 84, 4: Constant name "config" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:210, 4: Constant name "quest_base" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:212, 4: Constant name "quest_base" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 9.43/10 (previous run: 9.43/10, +0.00)
+
